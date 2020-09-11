@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://vedant1723:vedant1723@devzone.m66u1.mongodb.net/devzone?retryWrites=true&w=majority",
+  "jwtSecret": "secToken",
+  "githubClientId": "938cb97aace877bd1d9d",
+  "githubSecret": "9edcfbabc24034cad25a6d4e194672b0f3160496"
+}
